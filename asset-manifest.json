@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Map-Countries/static/css/main.e9c1a70f.css",
+    "main.js": "/React-Map-Countries/static/js/main.dc8f1656.js",
+    "static/media/main.jpg": "/React-Map-Countries/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/React-Map-Countries/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/React-Map-Countries/index.html",
+    "main.e9c1a70f.css.map": "/React-Map-Countries/static/css/main.e9c1a70f.css.map",
+    "main.dc8f1656.js.map": "/React-Map-Countries/static/js/main.dc8f1656.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9c1a70f.css",
+    "static/js/main.dc8f1656.js"
+  ]
+}
